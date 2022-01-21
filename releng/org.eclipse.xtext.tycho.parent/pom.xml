@@ -29,7 +29,7 @@
 		<profile>
 			<id>latest</id>
 			<properties>
-				<tycho-version>2.7.1</tycho-version>
+				<tycho-version>3.0.0-SNAPSHOT</tycho-version>
 				<target-platform-classifier>org.eclipse.xtext.target-latest</target-platform-classifier>
 			</properties>
 		</profile>
@@ -155,6 +155,10 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</pluginRepository>
+		  <pluginRepository>
+      <id>tycho-snapshots</id>
+      <url>https://repo.eclipse.org/content/repositories/tycho-snapshots/</url>
+    </pluginRepository>
 	</pluginRepositories>
 
 	<build>
