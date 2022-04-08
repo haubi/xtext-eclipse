@@ -24,7 +24,6 @@
       <unit id="org.apache.log4j" version="1.2.19.v20220208-1728"/>
       <unit id="org.apache.log4j.source" version="1.2.19.v20220208-1728"/>
       <unit id="org.objectweb.asm" version="9.2.0.v20210813-1119"/>
-      <unit id="org.objectweb.asm.tree" version="9.2.0.v20210813-1119"/>
       <unit id="com.google.inject" version="5.0.1.v20210324-2015"/>
       <unit id="org.aopalliance" version="1.0.0.v201105210816"/>
       <unit id="org.apache.commons.cli" version="1.4.0.v20200417-1444"/>

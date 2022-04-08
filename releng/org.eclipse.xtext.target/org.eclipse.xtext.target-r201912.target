@@ -8,7 +8,7 @@
 		<unit id="org.eclipse.xtend.lib.source" version="0.0.0"/>
 		<unit id="org.eclipse.xtend.lib.macro" version="0.0.0"/>
 		<unit id="org.eclipse.xtend.lib.macro.source" version="0.0.0"/>
-		<repository location="https://ci.eclipse.org/xtext/job/xtext-lib/job/master/lastStableBuild/artifact/build/p2-repository/"/>
+		<repository location="https://ci.eclipse.org/xtext/job/xtext-lib/job/cd_asmCleanup/lastStableBuild/artifact/build/p2-repository/"/>
 	</location>
 	
 	<location includeAllPlatforms="false" includeMode="planner" includeSource="true" type="InstallableUnit">
@@ -32,7 +32,7 @@
 		<unit id="org.eclipse.xtext.testlanguages.ide.source" version="0.0.0"/>
 		<unit id="org.eclipse.xtext.tests" version="0.0.0"/>
 		<unit id="org.eclipse.xtext.tests.source" version="0.0.0"/>
-		<repository location="https://ci.eclipse.org/xtext/job/xtext-core/job/master/lastStableBuild/artifact/build/p2-repository/"/>
+		<repository location="https://ci.eclipse.org/xtext/job/xtext-core/job/cd_asmCleanup/lastStableBuild/artifact/build/p2-repository/"/>
 	</location>
 	
 	<location includeAllPlatforms="false" includeMode="planner" includeSource="true" type="InstallableUnit">
@@ -60,7 +60,7 @@
 		<unit id="org.eclipse.xtext.xbase.testlanguages.source" version="0.0.0"/>
 		<unit id="org.eclipse.xtext.xbase.testlanguages.ide" version="0.0.0"/>
 		<unit id="org.eclipse.xtext.xbase.testlanguages.ide.source" version="0.0.0"/>
-		<repository location="https://ci.eclipse.org/xtext/job/xtext-extras/job/master/lastStableBuild/artifact/build/p2-repository/"/>
+		<repository location="https://ci.eclipse.org/xtext/job/xtext-extras/job/cd_asmCleanup/lastStableBuild/artifact/build/p2-repository/"/>
 	</location>
 	
 	<location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="planner" includeSource="true" type="InstallableUnit">
@@ -101,7 +101,6 @@
 		<unit id="org.junit.platform.engine" version="0.0.0"/>
 		<unit id="org.opentest4j" version="0.0.0"/>
 		<unit id="org.objectweb.asm" version="9.2.0.v20210813-1119"/>
-		<unit id="org.objectweb.asm.tree" version="9.2.0.v20210813-1119"/>
 		<unit id="io.github.classgraph" version="4.8.138.v20211212-1642"/>
 		<repository location="https://download.eclipse.org/tools/orbit/downloads/2022-03"/>
 	</location>
